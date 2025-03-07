@@ -9,4 +9,4 @@ Linha do tempo de entregas:
 29/03: Componentes de serviços. 
 05/04: Estratégias de teste. 
 12/04: Plano de gerenciamento.
-![image](https://github.com/user-attachments/assets/9b6fe8d4-0aa0-4419-b593-22aa694bdced)
+
