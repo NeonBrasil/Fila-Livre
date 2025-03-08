@@ -21,7 +21,7 @@ O Fila Livre seguirá todas as regulamentações de privacidade e segurança de 
 ## Wiki
 Informações adicionais podem ser encontradas na [Wiki](https://github.com/NeonBrasil/Fila-Livre/wiki) do projeto.
 
-
+***
 
 
 
