@@ -18,6 +18,12 @@ O Fila Livre seguirá todas as regulamentações de privacidade e segurança de 
 - [ISO 27002](https://github.com/user-attachments/files/19143372/d3d149.pdf)
 - [TISS (Troca de Informação em Saúde Suplementar)](https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/padrao-tiss-janeiro-2025)
 
+## Wiki
+Informações adicionais podem ser encontradas na [Wiki](https://github.com/NeonBrasil/Fila-Livre/wiki) do projeto.
+
+
+
+
 
 
 [Canvas.1.pptx](https://github.com/user-attachments/files/19143289/Canvas.1.pptx)
