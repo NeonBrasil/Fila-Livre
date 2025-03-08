@@ -22,7 +22,7 @@ O Fila Livre seguirá todas as regulamentações de privacidade e segurança de 
 Informações adicionais podem ser encontradas na [Wiki](https://github.com/NeonBrasil/Fila-Livre/wiki) do projeto.
 ***
 
-![Blue Modern Hospital Instagram Post](https://github.com/user-attachments/assets/ae234b0e-31d4-42b0-afd8-895f07a3a9a2)
+![Logo animada](https://github.com/user-attachments/assets/a67f1a28-26b8-4b91-a297-19da6a8b7362)
 
 
 ***
