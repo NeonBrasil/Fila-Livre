@@ -27,11 +27,3 @@ Informações adicionais podem ser encontradas na [Wiki](https://github.com/Neon
 
 ***
 
-
-
-
-[Canvas.1.pptx](https://github.com/user-attachments/files/19143289/Canvas.1.pptx)
-
-
-
-mais info: https://www.gov.br/anvisa/pt-br/acessoainformacao/tratamento-de-dados-pessoais
